@@ -1,0 +1,20 @@
+- [ ] anagram
+- [ ] binary
+- [x] complex-numbers
+- [ ] dominoes
+- [x] grains
+- [ ] hamming
+- [x] hello-world: introductory
+- [ ] isogram
+- [x] leap: basics
+- [ ] nucleotide-count
+- [ ] pascals-triangle
+- [x] queen-attack: basics
+- [ ] rna-transcription
+- [ ] satellite
+- [x] space-age
+- [ ] spiral-matrix
+- [ ] sum-of-multiples
+- [x] triangle: basics
+- [ ] wordy
+- [ ] zebra-puzzle

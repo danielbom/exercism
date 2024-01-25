@@ -1,0 +1,10 @@
+{
+  "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl.exe",
+  "files.associations": {
+    "*.pl": "prolog",
+    "*.plt": "prolog"
+  },
+  "[prolog]": {
+    "editor.tabSize": 2
+  }
+}
